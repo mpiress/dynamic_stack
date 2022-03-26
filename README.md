@@ -37,7 +37,7 @@ Em linhas gerais, a estrutura pilha é muito semelhante a uma lista dinâmica, e
 
 # Compilação e Execução
 
-A lista dinâmica disponibilizada possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
+A pilha dinâmica disponibilizada possui um arquivo Makefile que realiza todo o procedimento de compilação e execução. Para tanto, temos as seguintes diretrizes de execução:
 
 
 | Comando                |  Função                                                                                           |                     
