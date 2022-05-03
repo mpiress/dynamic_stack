@@ -24,6 +24,7 @@ void Pop(Pilha *p, Item *d){
 	aux = p->top;
 	p->top = aux->prox;
 	*d = aux->data;
+	free(aux);
 }
 
 
